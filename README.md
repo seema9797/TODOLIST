@@ -1,5 +1,4 @@
-#live link:
-hosted Netlify:https://todolistreactptoj.netlify.app/
+
 
 # Getting Started with Create React App
 
